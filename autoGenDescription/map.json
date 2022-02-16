@@ -1,0 +1,31 @@
+{
+    "DragonTiger":"style_Poker_LongHu",
+    "DragonTiger_Heng":"style_Poker_LongHu",
+
+    "Fqzs_Heng":"style_Poker_FeiQi",
+    "Fqzs":"style_Poker_FeiQi",
+
+    "mahjong":"style_Poker_MaJiang",
+    "mahjong_heng_erren":"style_Poker_MaJiang",
+    "mahjong_shu_erren":"style_Poker_MaJiang",
+
+    "NiuNiu":"style_Poker_NiuNiu",
+    "NiuNiu_Heng":"style_Poker_NiuNiu",
+
+    "pdk_heng":"style_Poker_PDK",
+    "pdk_heng_erren":"style_Poker_PDK",
+    "pdk_shu":"style_Poker_PDK",
+    "pdk_shu_erren":"style_Poker_PDK",
+   
+
+    "redVsBlack":"style_Poker_HongHei",
+    "redVsBlack_Heng":"style_Poker_HongHei",
+    
+    "FruitSlot_Shu":"style_Poker_Fruit",
+    "FruitDaZhuanPan":"style_Poker_Fruit",
+    "FruitJieJie":"style_Poker_Fruit",
+    "FruitTurn":"style_Poker_Fruit",
+
+    "DouDiZhu_Heng":"style_Poker_DouDiZhu",
+    "DouDiZhu_Shu":"style_Poker_DouDiZhu"
+}

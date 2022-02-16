@@ -1,0 +1,234 @@
+{
+    "game_layer": {
+        "bg": {
+            "relpath": "res/game_layer/majia/img/BG2.png"
+        },
+        "btn": {
+            "btnUp": {
+                "relpath": "res/game_layer/majia/img/byn_bianhuan.png"
+            },
+            "btnAttack": {
+                "relpath": "res/game_layer/majia/img/byn_fashe.png"
+            },
+            "btnRight": {
+                "relpath": "res/game_layer/majia/img/byn_jiantou.png"
+            }
+        },
+        "item1": {
+            "relpath": "res/game_layer/majia/img/card/hua1.png"
+        },
+        "item2": {
+            "relpath": "res/game_layer/majia/img/card/hua2.png"
+        },
+        "item3": {
+            "relpath": "res/game_layer/majia/img/card/hua3.png"
+        },
+        "item4": {
+            "relpath": "res/game_layer/majia/img/card/hua4.png"
+        },
+        "item5": {
+            "relpath": "res/game_layer/majia/img/card/hua5.png"
+        },
+        "item6": {
+            "relpath": "res/game_layer/majia/img/card/hua6.png"
+        },
+        "itemFrame1": {
+            "relpath": "res/game_layer/majia/img/card/pai1.png"
+        },
+        "itemFrame2": {
+            "relpath": "res/game_layer/majia/img/card/pai2.png"
+        },
+        "itemFrame3": {
+            "relpath": "res/game_layer/majia/img/card/pai3.png"
+        },
+        "itemFrame4": {
+            "relpath": "res/game_layer/majia/img/card/pai4.png"
+        },
+        "di": {
+            "relpath": "res/game_layer/majia/img/dididi.png"
+        }
+    },
+    "common": {
+        "btn_icon": {
+            "btn_sound_off": {
+                "relpath": "res/dynamic/common/btn_icon/btn_music_off.png"
+            },
+            "btn_sound_on": {
+                "relpath": "res/dynamic/common/btn_icon/btn_music_on.png"
+            },
+            "btn_return": {
+                "relpath": "res/dynamic/common/btn_icon/btn_return.png"
+            },
+            "btn_notice": {
+                "relpath": "res/dynamic/common/btn_icon/btn_rule.png"
+            }
+        },
+        "popbg": {
+            "bg": {
+                "relpath": "res/dynamic/common/pop_bg/bg.png"
+            },
+            "over_text": {
+                "relpath": "res/dynamic/common/pop_bg/over_text.png"
+            },
+            "notice_text": {
+                "relpath": "res/dynamic/common/pop_bg/notice_text.png"
+            }
+        },
+        "tip_bg": {
+            "relpath": "res/dynamic/common/img_popui.png"
+        },
+        "sound": {
+            "relpath": "res/dynamic/common/sound/button.mp3"
+        },
+        "music": {
+            "relpath": "res/dynamic/common/sound/game.mp3"
+        },
+        "font": {
+            "relpath": "res/dynamic/common/font/font.ttf"
+        },
+        "btn_common": {
+            "relpath": "res/dynamic/common/btn_common.png"
+        }
+    },
+    "over": {
+        "layout1": {
+            "btnGroup": {
+                "btnExit": {
+                    "relpath": "res/dynamic/over/btnExit.png"
+                },
+                "btnRestart": {
+                    "relpath": "res/dynamic/over/btnRestart.png"
+                }
+            }
+        }
+    },
+    "start": {
+        "layout1": {
+            "btn": {
+                "relpath": "res/dynamic/start/res/btn_start_1.png"
+            },
+            "login_bg": {
+                "relpath": "res/dynamic/start/res/bg.png"
+            },
+            "login_role": {
+                "relpath": "res/dynamic/start/res/role.png"
+            }
+        }
+    },
+    "select": {
+        "layout2": {
+            "btn_start": {
+                "relpath": "res/dynamic/select/res/btn_start.png"
+            },
+            "btnJob": {
+                "btn1_0": {
+                    "relpath": "res/dynamic/select/btn/daoshitubiao1.png"
+                },
+                "btn1_1": {
+                    "relpath": "res/dynamic/select/btn/daoshitubiao2.png"
+                },
+                "btn2_0": {
+                    "relpath": "res/dynamic/select/btn/fashitubiao1.png"
+                },
+                "btn2_1": {
+                    "relpath": "res/dynamic/select/btn/fashitubiao2.png"
+                },
+                "btn3_0": {
+                    "relpath": "res/dynamic/select/btn/zhanshitubiao1.png"
+                },
+                "btn3_1": {
+                    "relpath": "res/dynamic/select/btn/zhanshitubiao2.png"
+                }
+            },
+            "btnSex": {
+                "btnMan": {
+                    "relpath": "res/dynamic/select/btn/btnMan.png"
+                },
+                "btnMan1": {
+                    "relpath": "res/dynamic/select/btn/btnSexIcon_1.png"
+                },
+                "btnWoman": {
+                    "relpath": "res/dynamic/select/btn/btnWoman.png"
+                },
+                "btnWoman1": {
+                    "relpath": "res/dynamic/select/btn/btnSexIcon2.png"
+                }
+            },
+            "createRole": {
+                "relpath": "res/dynamic/select/res/chuangjianjuese.png"
+            },
+            "nameText": {
+                "relpath": "res/dynamic/select/res/shurumingcheng.png"
+            },
+            "tuozi": {
+                "relpath": "res/dynamic/select/res/tuozi.png"
+            },
+            "dec": {
+                "dec1": {
+                    "relpath": "res/dynamic/select/job/dec_1.png"
+                },
+                "dec2": {
+                    "relpath": "res/dynamic/select/job/dec_2.png"
+                },
+                "dec3": {
+                    "relpath": "res/dynamic/select/job/dec_3.png"
+                }
+            }
+        }
+    },
+    "Special": {
+        "type": {
+            "select_bg": {
+                "relpath": "res/dynamic/select/res/bg.png"
+            },
+            "select_role_1_0": {
+                "role": {
+                    "relpath": "res/dynamic/select/job/huoban_1_0.png"
+                },
+                "head": {
+                    "relpath": "res/dynamic/select/job/head_1_0.png"
+                }
+            },
+            "select_role_1_1": {
+                "role": {
+                    "relpath": "res/dynamic/select/job/huoban_1_1.png"
+                },
+                "head": {
+                    "relpath": "res/dynamic/select/job/head_1_1.png"
+                }
+            },
+            "select_role_2_0": {
+                "role": {
+                    "relpath": "res/dynamic/select/job/huoban_2_0.png"
+                },
+                "head": {
+                    "relpath": "res/dynamic/select/job/head_2_0.png"
+                }
+            },
+            "select_role_2_1": {
+                "role": {
+                    "relpath": "res/dynamic/select/job/huoban_2_1.png"
+                },
+                "head": {
+                    "relpath": "res/dynamic/select/job/head_2_1.png"
+                }
+            },
+            "select_role_3_0": {
+                "role": {
+                    "relpath": "res/dynamic/select/job/huoban_3_0.png"
+                },
+                "head": {
+                    "relpath": "res/dynamic/select/job/head_3_0.png"
+                }
+            },
+            "select_role_3_1": {
+                "role": {
+                    "relpath": "res/dynamic/select/job/huoban_3_1.png"
+                },
+                "head": {
+                    "relpath": "res/dynamic/select/job/head_3_1.png"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "fakeapptoolv2",
+  "version": "1.0.0",
+  "description": "fakeapptool",
+  "main": "FakeAppTool.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "http://192.168.0.222:9090/FakeAppToolv2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cryptr": "^6.0.1",
+    "gm": "^1.23.1",
+    "ignore": "^5.1.4",
+    "image-size": "^0.8.3",
+    "javascript-obfuscator": "^0.18.8",
+    "lowdb": "^1.0.0",
+    "mouse-controller": "^1.0.0",
+    "readline-sync": "^1.4.10",
+    "selenium-webdriver": "^4.0.0-alpha.5",
+    "simple-git": "^1.129.0",
+    "string-random": "^0.1.3"
+  }
+}
